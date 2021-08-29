@@ -19,10 +19,11 @@ public class Calculator {
 		double multiplicacao = multiplicacao(a, b);
 		double divisao = divisao(a, b);
 
-		System.out.println("O valor somado é: " + soma);
-		System.out.println("O valor subtraido é: " + subtracao);
-		System.out.println("O valor multiplicado é: " + multiplicacao);
-		System.out.println("O valor dividido é: " + divisao);
+		System.out.println("O valor somado Ã©: " + soma);
+		System.out.println("O valor subtraido Ã©: " + subtracao);
+		System.out.println("O valor multiplicado Ã©: " + multiplicacao);
+		System.out.println("O valor dividido Ã©: " + divisao);
+		System.out.println("Comitando");
 
 	}
 
